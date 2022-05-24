@@ -49,10 +49,6 @@
     <img title="Streak stats" alt="ashutosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshtiwarind&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-  <summary>🔥 Streak stats</summary>
-
-<p>
-    <img title="Streak stats" alt="acuon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshtiwarind&theme=monokai-metallian&hide_border=true"/>
   
 </p>
 
