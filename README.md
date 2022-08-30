@@ -41,24 +41,4 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
         </p
 <br/>
-
-
-
-<p><summary>🔥 Streak stats</summary></p>
-<p>
-    <img title="Streak stats" alt="ashutosh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshtiwarind&theme=monokai-metallian&hide_border=true"/>
-</p>
-
-  
-</p>
-
-<hr>
-
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/ashutoshtiwarind/github-readme-stats"><img alt="ashu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashutoshtiwarind&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a href="https://github.com/ashutoshtiwarind/github-readme-stats"><img alt="ashu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshtiwarind&langs_count=30&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-
-
 <hr>
