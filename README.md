@@ -16,9 +16,6 @@ Let's connect and chat about tech!
   <a href="https://www.linkedin.com/in/ashutoshtiwarindia/" target="_blank" rel="noopener noreferrer">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" />
   </a>  
-  <a href="https://twitter.com/73_109ashutosh" target="_blank" rel="noopener noreferrer">
-    <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter"/>
-  </a>  
   <a href="mailto:ashutoshtiwarindia@gmail.com">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email"/>
   </a>  
