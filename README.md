@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Software Engineer focused on building scalable and efficient web applications, primarily using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** and related technologies. I enjoy tackling challenges across the development lifecycle, from designing APIs and structuring databases to building interactive user interfaces. Passionate about clean code, learning new technologies, and collaborating on impactful projects.
 
-Feel free to reach out! ✉️ [ashutoshtiwarindia@gmail.com](mailto:ashutoshtiwarindia@gmail.com)
+Feel free to reach out ✉️ [ashutoshtiwarindia@gmail.com](mailto:ashutoshtiwarindia@gmail.com)
 
 <hr>
 
